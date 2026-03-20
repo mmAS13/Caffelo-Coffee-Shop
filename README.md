@@ -4,7 +4,7 @@ A modern, high-end, and fully responsive coffee shop website built using Bootstr
 # Key Features
 Bootstrap 5 Framework: Utilizes Bootstrap’s powerful grid system and components for a mobile-first design.
 
-Fully Responsive: Seamlessly adapts to all screen sizes, including desktops, tablets, and smartphones.
+Fully Responsive: Seamlessly adapts to all screen sizes, including desktops, tablets.
 
 Sticky Navigation Bar: A functional, branded navbar that allows easy access to Home, About, Menu, Products, Gallery, and Contact sections.
 
@@ -30,6 +30,9 @@ style.css: Custom styling for brand identity, hover animations, and scroll behav
 
 # Background
 This project was created in 2023 as a technical practice to master Bootstrap 5. It focuses on building a cohesive brand identity (Caffelo) while ensuring the website remains functional and fast across various devices.
+
+# View Live
+https://caffelo.netlify.app/ (it is not mobile friendly)
 
 # Author 
 Mariam Memon
